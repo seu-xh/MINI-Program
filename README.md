@@ -3,40 +3,39 @@ UI
 
 1.
 
-<img src="https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/1.png" width="400">
+<img src="https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/1.png" width="300" height="500">
 
-![1](https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/1.png)
 
 2.
 
-<img src="https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/2.jpg" width="400">
+<img src="https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/2.jpg" width="300" height="500">
 
-![1](https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/2.jpg)
+
 
 3.
 
-![1](https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/3.jpg)
+<img src="https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/3.jpg" width="300" height="500">
 
 4.
 
-![1](https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/4.jpg)
+<img src="https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/4.jpg" width="300" height="500">
 
 5.
 
-![1](https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/5.jpg)
+<img src="https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/5.jpg" width="300" height="500">
 
 6.
 
-![1](https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/6.jpg)
+<img src="https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/6.jpg" width="300" height="500">
 
 7.
 
-![1](https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/7.jpg)
+<img src="https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/7.jpg" width="300" height="500">
 
 8.
 
-![1](https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/8.jpg)
+<img src="https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/8.jpg" width="300" height="500">
 
 9.
 
-![1](https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/9.png)
+<img src="https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/9.png" width="300" height="500">
