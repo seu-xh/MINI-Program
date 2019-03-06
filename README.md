@@ -3,7 +3,7 @@ UI
 
 1.
 
-![1](https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/1.jpg)
+![1](https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/1.png)
 
 2.
 
@@ -35,4 +35,4 @@ UI
 
 9.
 
-![1](https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/9.jpg)
+![1](https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/9.png)
