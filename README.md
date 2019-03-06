@@ -3,9 +3,13 @@ UI
 
 1.
 
+<img src="https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/1.png" width="400">
+
 ![1](https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/1.png)
 
 2.
+
+<img src="https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/2.jpg" width="400">
 
 ![1](https://github.com/seu-xh/break-out/blob/master/screenshots/sunnywithu/2.jpg)
 
